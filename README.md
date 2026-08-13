@@ -1,24 +1,37 @@
-# Kazim Merchant
+<p align="center">
+  <img src="assets/header-dark.svg#gh-dark-mode-only" alt="Kazim Merchant — local-first agent tooling" width="100%">
+  <img src="assets/header-light.svg#gh-light-mode-only" alt="Kazim Merchant — local-first agent tooling" width="100%">
+</p>
 
-Local-first **agent tooling** (MCP) and careful **upstream** contributions in Python. Building in public.
+I build tools that coding agents can run on a machine you control, then I send the hard fixes back upstream. Python, TypeScript, MCP. Building in public.
 
-## Ships
+<p align="center">
+  <a href="https://github.com/kazimrmerchant/book-guide-mcp"><strong>Flagship</strong></a>
+  ·
+  <a href="https://github.com/kazimrmerchant/research"><strong>Research</strong></a>
+  ·
+  <a href="https://github.com/sponsors/kazimrmerchant">Sponsors</a>
+</p>
 
-- **[book-guide-mcp](https://github.com/kazimrmerchant/book-guide-mcp)** — Playbooks and tutors your coding agents can run locally (Cursor, Claude, VS Code, …). No API keys required for the core loop.
+## Now
 
-## Open source
+| Project | What it is |
+|---------|------------|
+| **[book-guide-mcp](https://github.com/kazimrmerchant/book-guide-mcp)** | Playbooks and tutors your agents run locally (Cursor, Claude, VS Code, and others). Citations from books you own. No API keys for the core loop. |
+| **[research](https://github.com/kazimrmerchant/research)** | Dated public notes on local-first agents, MCP, and the failure modes that show up when tools actually have to run. |
 
-Selected contributions (growing):
+## Upstream
 
-- [`simonw/llm`](https://github.com/simonw/llm) — CLI / schema / logging fixes ([#1612](https://github.com/simonw/llm/pull/1612), [#1613](https://github.com/simonw/llm/pull/1613))
-- [`pypa/hatch`](https://github.com/pypa/hatch) — packaging correctness (wheel built from sdist)
+Hard, reviewable work — not drive-by typo farms.
 
-I prefer hard, reviewable fixes over drive-by typo farms. AI agents help me move faster; I own every upstream diff I open.
+| Repository | Change | Status |
+|------------|--------|--------|
+| [simonw/llm](https://github.com/simonw/llm) | Accept JSON Schema type names in `schema_dsl` | Open — [#1612](https://github.com/simonw/llm/pull/1612) |
+| [simonw/llm](https://github.com/simonw/llm) | Set `conversation_id` correctly in `llm logs --data-ids` | Open — [#1613](https://github.com/simonw/llm/pull/1613) |
+| [pypa/hatch](https://github.com/pypa/hatch) | Build a wheel from the sdist when both targets are requested | Open — [#2386](https://github.com/pypa/hatch/pull/2386) |
 
-## Sponsors
-
-If this work helps you: [github.com/sponsors/kazimrmerchant](https://github.com/sponsors/kazimrmerchant)
+AI agents help me move faster. I own every upstream diff I open.
 
 ## Contact
 
-GitHub: [@kazimrmerchant](https://github.com/kazimrmerchant)
+GitHub is the right place: [@kazimrmerchant](https://github.com/kazimrmerchant)

@@ -25,7 +25,7 @@ I build tools that coding agents can run on a machine you control, then I send t
 
 <p align="center">
   <a href="https://github.com/Kayforkind/reimagine-it">
-    <img alt="Same Texas notebook source, three runs of /reimagine-it — Draw A dashboard-live, Draw B field-guide-quiet, Draw C cinematic-shader with a full-bleed WebGL2 west-Texas sunset" src="https://raw.githubusercontent.com/Kayforkind/reimagine-it/main/gold/webpage/quartet.png" width="100%">
+    <img alt="Same source, three runs of /reimagine-it — three completely different reader registers" src="https://raw.githubusercontent.com/Kayforkind/reimagine-it/main/gold/webpage/quartet.png" width="100%">
   </a>
   <br>
   <sub><em>/reimagine-it — same source, same command, three completely different reader registers. Every visual is a real <code>.html</code> file in the repo.</em></sub>
@@ -33,10 +33,10 @@ I build tools that coding agents can run on a machine you control, then I send t
 
 <p align="center">
   <a href="https://github.com/Kayforkind/reimagine-it/blob/main/gold/domains/infographic/after.html">
-    <img alt="v2.3 infographic gold: same Texas notebook as a cream paper poster with a 1836-1995 Priestley timeline, eight equal ISOTYPE acre units, and a lossless data table" src="https://raw.githubusercontent.com/Kayforkind/reimagine-it/main/gold/domains/infographic/after.png" width="72%">
+    <img alt="infographic gold: the source as a cream paper poster with a common-scale timeline, ISOTYPE count units, and a lossless data table" src="https://raw.githubusercontent.com/Kayforkind/reimagine-it/main/gold/domains/infographic/after.png" width="72%">
   </a>
   <br>
-  <sub><em>v2.3 &nbsp;·&nbsp; <code>/reimagine-it infographic</code> &nbsp;·&nbsp; statistical poster, not a dashboard.</em></sub>
+  <sub><em>v2.8 &nbsp;·&nbsp; <code>/reimagine-it infographic</code> &nbsp;·&nbsp; statistical poster, not a dashboard.</em></sub>
 </p>
 
 ## Upstream

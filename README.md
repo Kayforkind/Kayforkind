@@ -5,8 +5,12 @@
 
 I build tools that coding agents can run on a machine you control, then I send the hard fixes back upstream. Python, TypeScript, MCP. Building in public.
 
+Founder of **[NavigatorsLab](https://navigatorslab.com)** — the lab where local-first, private-by-default software gets built, shipped, and documented.
+
 <p align="center">
   <a href="https://github.com/Kayforkind/reimagine-it"><strong>/reimagine-it</strong></a>
+  ·
+  <a href="https://github.com/Kayforkind/pdf-studio"><strong>pdf-studio</strong></a>
   ·
   <a href="https://github.com/Kayforkind/book-guide-mcp"><strong>book-guide-mcp</strong></a>
   ·
@@ -20,6 +24,7 @@ I build tools that coding agents can run on a machine you control, then I send t
 | Project | What it is |
 |---------|------------|
 | **[reimagine-it](https://github.com/Kayforkind/reimagine-it)** &nbsp;·&nbsp; v2.8 | **Content-Derived Design** CLI + Agent Skill (Claude Code, Cursor, Codex, Copilot, Gemini CLI). Paste HTML; get a standalone redesign whose palette, motif, and motion derive from the source’s own facts — never invented. 17 directions (incl. a photoshoot `lookbook` and a living `particles` field), a AAA motion pack (kinetic type, magnetic buttons, glow-follow cards, inertia-orbit 3D with fact billboards), Auto direction-picking, a 19-rule deterministic audit, an MCP server, and a Design Health GitHub Action. Committed proofs regenerate byte-identically in CI; npm releases ship SLSA provenance. No CDN, no paid API, no third-party service. |
+| **[pdf-studio](https://github.com/Kayforkind/pdf-studio)** &nbsp;·&nbsp; [try it live](https://kayforkind.github.io/pdf-studio/) | **NavigatorsLab PDF Studio** — a genuinely free, private, full-featured PDF editor that runs 100% in your browser. Edits the text *already inside* the PDF (not just stamps on top), fills & flattens AcroForms, OCRs scans locally, signs, redacts, reorders/merges/splits, diffs two revisions, and answers questions via an on-device LLM. Files never leave the machine — no uploads, no watermark, no accounts, no limits. MIT. Built by [NavigatorsLab](https://navigatorslab.com). |
 | **[book-guide-mcp](https://github.com/Kayforkind/book-guide-mcp)** | Playbooks and tutors your agents run locally (Cursor, Claude, VS Code, and others). Citations from books you own. No API keys for the core loop. |
 | **[research](https://github.com/Kayforkind/research)** | Dated public notes on local-first agents, MCP, and the failure modes that show up when tools actually have to run. |
 
@@ -53,4 +58,4 @@ AI agents help me move faster. I own every upstream diff I open.
 
 ## Contact
 
-GitHub is the right place: [@Kayforkind](https://github.com/Kayforkind)
+The lab: [navigatorslab.com](https://navigatorslab.com) · GitHub is the right place: [@Kayforkind](https://github.com/Kayforkind)

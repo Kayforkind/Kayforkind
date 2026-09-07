@@ -3,11 +3,11 @@
   <img src="assets/header-light.svg#gh-light-mode-only" alt="Kazim Merchant — founder of NavigatorLabs, local-first agent tooling" width="100%">
 </p>
 
-I'm **Kazim Merchant** — founder of **[NavigatorLabs](https://navigatorslab.com)**, the lab where local-first, private-by-default software gets built, shipped, and documented.
+I'm **Kazim Merchant** — founder of **[NavigatorLabs](https://navigatorslab.com)**, the lab where local-first, private-by-default software gets built, shipped, and documented. Find the lab at [navigators.com](https://navigators.com) too.
 
 I build tools that coding agents can run on a machine you control, then I send the hard fixes back upstream. Python, TypeScript, MCP. Everything open source, everything building in public — and everything **audited**: SLSA provenance on releases, SHA-pinned CI, an OpenSSF Scorecard of **7.0**, and proof artifacts that regenerate **byte-identically** in CI rather than screenshots nobody can reproduce.
 
-**The flagship — [reimagine-it](https://github.com/Kayforkind/reimagine-it):** Content-Derived Design. It reads an HTML page and redesigns it from its *own* nouns, dates, numbers, and colors — never invented — across **17 design directions** with **96.8% measured pairwise distinctness**. **85★**, **1,700+ npm downloads a week**, **23 releases** in under three months, and 30 merged PRs shipped through a protected `main` with 16+ required checks on every one.
+**The flagship — [reimagine-it](https://github.com/Kayforkind/reimagine-it):** Content-Derived Design. It reads an HTML page and redesigns it from its *own* nouns, dates, numbers, and colors — never invented — across **17 design directions** with **96.8% measured pairwise distinctness**. **88★**, **1,700+ npm downloads a week**, **23 releases** in under three months, and 23 merged PRs shipped through a protected `main` with 16+ required checks on every one.
 
 <p align="center">
   <a href="https://github.com/Kayforkind/reimagine-it"><strong>/reimagine-it</strong></a>
@@ -27,7 +27,7 @@ I build tools that coding agents can run on a machine you control, then I send t
 
 | Project | What it is | Proof |
 |---------|------------|-------|
-| **[reimagine-it](https://github.com/Kayforkind/reimagine-it)** | **Content-Derived Design** CLI + Agent Skill (Claude Code, Cursor, Codex, Copilot, Gemini CLI). Paste HTML; get a standalone redesign whose palette, motif, and motion derive from the source's own facts — never invented. 17 directions, Auto direction-picking, a 19-rule deterministic audit, an MCP server, a Design Health GitHub Action, and a live playground. Not a mood board. | ⭐ 85 · v2.13.1 · [1.7k dl/week](https://www.npmjs.com/package/reimagine-it) · [live playground](https://kayforkind.github.io/reimagine-it/#playground) |
+| **[reimagine-it](https://github.com/Kayforkind/reimagine-it)** | **Content-Derived Design** CLI + Agent Skill (Claude Code, Cursor, Codex, Copilot, Gemini CLI). Paste HTML; get a standalone redesign whose palette, motif, and motion derive from the source's own facts — never invented. 17 directions, Auto direction-picking, a 19-rule deterministic audit, an MCP server, a Design Health GitHub Action, and a live playground. Not a mood board. | ⭐ 88 · v2.13.1 · [1.7k dl/week](https://www.npmjs.com/package/reimagine-it) · [live playground](https://kayforkind.github.io/reimagine-it/#playground) |
 | **[NavigatorsLab PDF Studio](https://github.com/Kayforkind/NavigatorsLab-PDF-Studio)** | A genuinely free, private, full-featured PDF editor that runs 100% in your browser. Edits the text *already inside* the PDF (not just stamps on top), fills & flattens AcroForms, OCRs scans locally, signs, redacts, reorders/merges/splits, diffs two revisions, and answers questions via an on-device LLM. | [Try it live](https://kayforkind.github.io/NavigatorsLab-PDF-Studio/) — no uploads, no accounts, no watermarks · MIT |
 | **[NavigatorsLab Tools](https://github.com/Kayforkind/NavigatorsLab-Tools)** | Fifteen free, open-source utilities that run 100% in your browser: strip photo GPS, shrink images to an exact size, clean phone-scanned documents, sign PDFs, reorganize/merge pages, OCR receipts to CSV, generate QR codes privately, diff contracts word-level, trim audio, generate invoices, batch-rename by EXIF, print prep. | [Try them live](https://navigatorslab.com/tools/) — no uploads, nothing retained, ever · MIT |
 | **[book-guide-mcp](https://github.com/Kayforkind/book-guide-mcp)** | Playbooks and tutors (Socratic, Avicenna) your agents run locally across Cursor, Claude, VS Code, and Zed. Citations from books you own. No API keys for the core loop. | v0.2.0 |
@@ -46,7 +46,14 @@ Also in the lab: **[skill-slice](https://github.com/Kayforkind/skill-slice)** (c
 
 ## The numbers — all live, all checkable
 
-- **85★** on reimagine-it · **1,732** npm downloads last week · **23 releases** · **30 merged PRs**
+<p align="center">
+  <img src="assets/stats-dark.svg#gh-dark-mode-only" alt="Live shipping numbers: stars, merged PRs, commits, releases, downloads" width="100%">
+  <img src="assets/stats-light.svg#gh-light-mode-only" alt="Live shipping numbers: stars, merged PRs, commits, releases, downloads" width="100%">
+</p>
+
+The tiles above are re-rendered every week from public GitHub and npm APIs by [`scripts/refresh-stats.py`](scripts/refresh-stats.py) — every tile links its source; no third-party counters. Static highlights, verified at v2.13.1:
+
+- **88★** on reimagine-it · **1,732** npm downloads last week · **23 releases** · **23 merged PRs in reimagine-it** (59 across all repos)
 - **OpenSSF Scorecard 7.0** — Token-Permissions 10, Security-Policy 10, SLSA provenance + cosign signatures on npm releases
 - **96.8%** mean pairwise distinctness across all 136 design-direction pairs · benchmark **100/100 on all 17 tokens × 4 sources**
 - **116 tests** (68 unit + 20 MCP + 28 e2e) over a **155-file parity corpus**; **17 committed artifacts** reproduce byte-identically in CI

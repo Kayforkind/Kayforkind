@@ -34,6 +34,32 @@ I build tools that coding agents can run on a machine you control, then I send t
 | **[study-guide](https://github.com/Kayforkind/study-guide)** | Exam-guides platform — certification prep with topic units and quizzes. | Live product |
 | **[design-health-action](https://github.com/Kayforkind/design-health-action)** | The 18 deterministic design-quality checks from reimagine-it, standalone — drop it on any HTML repo as a CI gate. No LLM, no API key. | GitHub Action |
 
+<!-- BEGIN:NAVIGATORSLAB-TOOL-REPOS -->
+### 🧭 NavigatorsLab Tools — one repo per tool
+
+Fifteen free, open-source (MIT) utilities that run **100% in your browser** — and now each has its own standalone repo. Every repo's README and GitHub Pages site funnel straight back to the hub at **[navigatorslab.com/tools](https://navigatorslab.com/tools/)**, where all fifteen live (plus an MCP endpoint for agents).
+
+| Tool | Standalone repo | Try it |
+|---|---|---|
+| 🛡️ Photo Privacy Kit | [NavigatorsLab-Photo-Privacy-Kit](https://github.com/Kayforkind/NavigatorsLab-Photo-Privacy-Kit) | [Open](https://navigatorslab.com/tools/exif.html) |
+| 🔍 Metadata & Hidden-Data Checker | [NavigatorsLab-Metadata-Checker](https://github.com/Kayforkind/NavigatorsLab-Metadata-Checker) | [Open](https://navigatorslab.com/tools/metadata.html) |
+| 🗜️ Image Shrinker | [NavigatorsLab-Image-Shrinker](https://github.com/Kayforkind/NavigatorsLab-Image-Shrinker) | [Open](https://navigatorslab.com/tools/shrink.html) |
+| 📄 Scan & Screenshot Cleaner | [NavigatorsLab-Scan-Cleaner](https://github.com/Kayforkind/NavigatorsLab-Scan-Cleaner) | [Open](https://navigatorslab.com/tools/scan.html) |
+| ✍️ Local E-Sign Pad | [NavigatorsLab-E-Sign-Pad](https://github.com/Kayforkind/NavigatorsLab-E-Sign-Pad) | [Open](https://navigatorslab.com/tools/sign.html) |
+| 🧾 Receipts → One PDF | [NavigatorsLab-Receipts-to-PDF](https://github.com/Kayforkind/NavigatorsLab-Receipts-to-PDF) | [Open](https://navigatorslab.com/tools/receipts.html) |
+| 🔢 Receipt OCR → CSV | [NavigatorsLab-Receipt-OCR](https://github.com/Kayforkind/NavigatorsLab-Receipt-OCR) | [Open](https://navigatorslab.com/tools/ocr.html) |
+| 🔳 QR Studio | [NavigatorsLab-QR-Studio](https://github.com/Kayforkind/NavigatorsLab-QR-Studio) | [Open](https://navigatorslab.com/tools/qr.html) |
+| 🎧 Audio Trimmer | [NavigatorsLab-Audio-Trimmer](https://github.com/Kayforkind/NavigatorsLab-Audio-Trimmer) | [Open](https://navigatorslab.com/tools/audio.html) |
+| 🧮 Invoice / Quote Generator | [NavigatorsLab-Invoice-Generator](https://github.com/Kayforkind/NavigatorsLab-Invoice-Generator) | [Open](https://navigatorslab.com/tools/invoice.html) |
+| 🗂️ Batch Rename & Sort | [NavigatorsLab-Batch-Rename](https://github.com/Kayforkind/NavigatorsLab-Batch-Rename) | [Open](https://navigatorslab.com/tools/rename.html) |
+| 🖨️ Print-Shop Prep | [NavigatorsLab-Print-Shop-Prep](https://github.com/Kayforkind/NavigatorsLab-Print-Shop-Prep) | [Open](https://navigatorslab.com/tools/printprep.html) |
+| 📑 PDF Pages | [NavigatorsLab-PDF-Pages](https://github.com/Kayforkind/NavigatorsLab-PDF-Pages) | [Open](https://navigatorslab.com/tools/pdfpages.html) |
+| 🔬 Text Diff | [NavigatorsLab-Text-Diff](https://github.com/Kayforkind/NavigatorsLab-Text-Diff) | [Open](https://navigatorslab.com/tools/textdiff.html) |
+| 📊 Text Stats | [NavigatorsLab-Text-Stats](https://github.com/Kayforkind/NavigatorsLab-Text-Stats) | [Open](https://navigatorslab.com/tools/textstats.html) |
+
+*The hub is the product: **[navigatorslab.com/tools](https://navigatorslab.com/tools/)** — zero uploads, zero accounts, nothing retained, and it speaks agent (MCP + deep links).*
+<!-- END:NAVIGATORSLAB-TOOL-REPOS -->
+
 Also in the lab: **[skill-slice](https://github.com/Kayforkind/skill-slice)** (copy one Read-verified SKILL.md folder), **[liecatchers](https://github.com/Kayforkind/liecatchers)** (your agent said Done — ten sensors, one RECEIPT.json, prove it), **[agenthub](https://github.com/Kayforkind/agenthub)** (community Claude Code plugin marketplace), and **[research](https://github.com/Kayforkind/research)** (dated public notes on local-first agents, MCP, and the failure modes that show up when tools actually have to run).
 
 <p align="center">
